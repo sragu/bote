@@ -7,7 +7,7 @@ Often when designing systems we must to understand whats possible and where the 
 
 References: 
 
-  1. [General latency numbers] (refs/latencty.txt)
+  1. [General latency numbers] (refs/latency.txt)
   2. [Jeff Dean's paper] (http://research.google.com/people/jeff/stanford-295-talk.pdf)
   3. [Using BOTE for best design](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html) 
 
