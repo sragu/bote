@@ -12,6 +12,6 @@ on the recieving manchine:
 
 `nc -vvlnp 12345 >/dev/null`
 
-And the client can pipe a gigabyte of zeros through dd over the nc tunnel.
+And the client can then push a gigabyte of dummy data through dd over the nc tunnel.
 
 `dd if=/dev/zero bs=1M count=1K | nc -vvn 10.10.0.2 12345`
